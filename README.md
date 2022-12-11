@@ -19,6 +19,9 @@ Do you know how the compiler works, no?! Neither do I, so I made this article to
 * When we talk about programming we talk about high level programming with condition, loop, etc..., all that is for make the work easier for the humans to understand it and this is called **source code**.
 * that is called source code.
 * <img src="https://www.tldevtech.com/wp-content/uploads/2021/07/source-code.jpg" width="150">
+* the compiler take this **source code** and transforme it in **machine code**.
+
+in working...
 ## references
 
 [processor (CPU)] (https://www.techtarget.com/whatis/definition/processor)
