@@ -21,7 +21,7 @@ Do you know how the compiler works, no?! Neither do I, so I made this article to
 * <img src="https://www.tldevtech.com/wp-content/uploads/2021/07/source-code.jpg" width="150">
 * the compiler take this **source code** and transforme it in **machine code**.
 
-### Executable Program
+### Sources to machine code
 * What happens when you go from source code to compiler? For the compiler, the source code is only meiningless text.
 1. **He divides** the code in individual **tokens**.
 2. **He figuring out** what for **words are in the program**.
@@ -31,6 +31,8 @@ Do you know how the compiler works, no?! Neither do I, so I made this article to
 * After all this stuff the compiler has finaly his machine code for understand your code.
     - Ex if you want to assigne to an integer the value 3, the compiler will stock the value in the memory with his particular machine code.
 * If you change the source code the compiler will do de same route but with the change init a stock the new value in the memory.
+
+## How it's works with the conditions
 in working...
 ## references
 
