@@ -21,6 +21,13 @@ Do you know how the compiler works, no?! Neither do I, so I made this article to
 * <img src="https://www.tldevtech.com/wp-content/uploads/2021/07/source-code.jpg" width="150">
 * the compiler take this **source code** and transforme it in **machine code**.
 
+### Executable Program
+* What happens when you go from source code to compiler? For the compiler, the source code is only meiningless text.
+1. he divides the code in individual tokens.
+2. he figuring out what for words are in the program.
+3. Tokens are organized into a hierachical structure (parse tree), figuring what "grammar" is in program.
+4. The compiler register contexe about program (including variable and function names).
+5. He traverse the tree and figure out if some machine code would make the same thing as the source code 
 in working...
 ## references
 
