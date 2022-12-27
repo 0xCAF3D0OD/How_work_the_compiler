@@ -64,7 +64,7 @@ all that is for make the work easier for the humans to understand it and this is
 
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   [<img src="img/analyzer.png" width="300">](img/analyzer.png)
+   [<img src="img/analyzer.png" width="350">](img/analyzer.png)
 
 [//]: # (   [![lexical analyser scheme]&#40;<img src="img/analyzer.png" width="300">&#41;]&#40;img/analyzer.png&#41;)
 
