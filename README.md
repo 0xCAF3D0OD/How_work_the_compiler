@@ -23,6 +23,7 @@ Do you know how the compiler works, no?! Neither do I, so I made this article to
 
 ### Sources to machine code
 * What happens when you go from source code to compiler? For the compiler, the source code is only meiningless text.
+* First the compiler search for preprocessing directive. 
 1. **He divides** the code in individual **tokens**.
 2. **He figuring out** what for **words are in the program**.
 3. Tokens are organized into a hierachical structure (parse tree), figuring what "grammar" is in program.
