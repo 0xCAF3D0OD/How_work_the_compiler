@@ -48,7 +48,7 @@ all that is for make the work easier for the humans to understand it and this is
 
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   [<img src="img/Diagramme preprocesseur.jpeg" width="250">](img/Diagramme preprocesseur.jpeg)
+   [<img src="img/Diagram preprocessor.png" width="250">](img/Diagram preprocessor.png)
 
 
 2. **Lexical analysis:** He divides the code in individual **tokens**.
