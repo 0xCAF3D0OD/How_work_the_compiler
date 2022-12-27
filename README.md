@@ -61,7 +61,8 @@ all that is for make the work easier for the humans to understand it and this is
 2. **Lexical analysis:** He divides the code in individual **tokens**.
    * Each token has a **lexical unit** (keyword or symbol for example).
    * The token **syntax is a rational language** who is recognisable by the compiler.
-
+   * He's figuring out** what for **words are in the program**.
+   
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [<img src="img/analyzer.png" width="350">](img/analyzer.png)
@@ -69,7 +70,15 @@ all that is for make the work easier for the humans to understand it and this is
 [//]: # (   [![lexical analyser scheme]&#40;<img src="img/analyzer.png" width="300">&#41;]&#40;img/analyzer.png&#41;)
 
 
-3. **He's figuring out** what for **words are in the program**.
+3. **Syntax analysis:** The sequence of tokens is analyzed to check that it is a valid program according to the rules of the programming language.
+* Tokens are organized into a hierarchical structure (parse tree), figuring what "grammar" is in program.
+* The parse tree is often modified and improved as it is compiled.
+
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   [<img src="img/tree-shift-reduce.gif" width="350">](img/tree-shift-reduce.gif)
+
+
 4. Tokens are organized into a hierarchical structure (parse tree), figuring what "grammar" is in program.
 5. The compiler register context about program (including variable and function names).
 6. He traverse the tree and figure out if some machine code would make the same thing as the source code
