@@ -78,6 +78,9 @@ all that is for make the work easier for the humans to understand it and this is
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [<img src="img/tree-shift-reduce.gif" width="350">](img/tree-shift-reduce.gif)
 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   [<img src="img/parse_tree.png" width="350">](img/parse_tree.png)
+
 
 4. Tokens are organized into a hierarchical structure (parse tree), figuring what "grammar" is in program.
 5. The compiler register context about program (including variable and function names).
