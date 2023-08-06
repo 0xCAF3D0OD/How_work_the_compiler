@@ -1,4 +1,4 @@
-# How-work-the-compiler
+# How_work_the_compiler
 
 ### Introduction
 * >Do you know how the compiler works, no?! Neither do I, so I made this article to understand how it really works.
